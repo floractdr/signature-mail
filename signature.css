@@ -1,0 +1,10 @@
+signature.css
+
+img {
+	max-width: 10%;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet;
+    font-size: 14px;
+}
